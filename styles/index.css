@@ -13,3 +13,6 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+body {
+  @apply dark:bg-gray-800;
+}
