@@ -94,7 +94,7 @@ export default function Index({ allPosts }) {
                 </div> */}
 
                 <div class='max-w-lg lg:mx-12 lg:order-2'>
-                  <h1 class='text-3xl font-bold leading-tight tracking-wide text-gray-800 dark:text-white lg:text-7xl'>
+                  <h1 class='font-bold leading-tight tracking-wide text-gray-800 dark:text-white text-7xl'>
                     The best Axie Infinity school
                   </h1>
                   <p class='mt-4 text-2xl text-gray-600 dark:text-gray-300'>
